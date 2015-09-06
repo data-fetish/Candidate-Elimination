@@ -41,8 +41,8 @@ int main()
   targetHypothesis[1] = 2;
   targetHypothesis[2] = 1;
   targetHypothesis[3] = 1;
-  targetHypothesis[4] = INT_MAX;
-  targetHypothesis[5] = INT_MAX;
+  targetHypothesis[4] = 2;
+  targetHypothesis[5] = 1;
 
   cin >> numberFeatures; //input the number of features
 
