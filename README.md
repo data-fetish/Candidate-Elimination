@@ -3,7 +3,7 @@
 This repo contains the implementation of the Candidate Elimination algorithm in C++. Given the Hypothesis space <b>H</b> and a set of examples <b>E</b>, the algorithm builds the version space. The examples are fed into the algorithm sequentially and each example reduces the Version space by removing the hypotheses that are inconsistent with that example. This is achieved by updating the general and specific boundary for each new example.
 
 
-The algorithm as given in <b>Machine Learning* book by_ Tom Mitchell_ is given below
+The algorithm as given in <b>Machine Learning</b> book by <i>Tom Mitchell</i> is given below
 
 
 	Initialize G to the  set of maximally general hypotheses in H 
